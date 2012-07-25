@@ -1,12 +1,12 @@
 ###### DESCRIPTION
 
-A 2D football game made in XNA for a Game Development course in the Integrated Master of Informatics and Computing Engineering degree from the University of Porto. The development team was composed of:
+A 2D football game made in Microsft XNA Game Studio for a Game Development course in the Integrated Master of Informatics and Computing Engineering degree from the University of Porto. The development team was composed of:
 
-João Xavier (jcxavier in github)
+João Xavier ([jcxavier](http://github.com/jcxavier) @ github)
 
 Ricardo Moutinho
 
-Rui Campos (catdawg in github)
+Rui Campos ([catdawg](http://github.com/catdawg) @ github)
 
 Tiago Carvalho
 
@@ -23,11 +23,11 @@ Development timeframe was around 3 weeks.
 
 Major features are:
 
-- Customizable teams, each player has specific stats such as, speed, stamina or shot power. The stats and formation can be edited in a .txt file.
+- Customizable teams, each player has specific stats such as speed, stamina or shot power. The stats and formation can be edited in a .txt file.
 - The stats affect the players by giving them less accuracy when they pass or shoot, or making them run slower.
 - Sprinting depletes two kinds of stamina, one permanent and a smaller one which replenishes very fast after a short time. While any of the bars is empty, the player cannot sprint.
-- Cool AI! the players will defend intelligently, and the attackers will make sprints to escape man to man marking. If you can beat the AI you are awesome :D (I can't :( ).
-- If you beat the AI by 3 goal difference you are in for an auditory surprise :D
+- Cool AI! the players will defend intelligently, and the attackers will make sprints to escape man-to-man marking. If you can beat the AI you are awesome :D.
+- If you beat the AI by a 3-goal difference you are in for an auditory surprise :D
 
 
 ###### CONTROLS
@@ -35,8 +35,6 @@ Major features are:
 If you wish to edit the controls yourself you will unfortunately have to compile the game yourself, the controls are present in the Controller.cs file.
 
 Current controls are:
-
-WARNING: some keyboards don't allow many keys to be pressed at the same time. Sorry if sometimes it might seem it isn't shooting or something, specially if you are playing Player VS Player.
 
 Player1:
 
@@ -67,6 +65,9 @@ Player2:
     Pass = OemPeriod;
     FreePass = O;
     Shoot = OemComma;
+
+WARNING: some keyboards don't allow many keys to be pressed at the same time. Sorry if sometimes it might seem it isn't shooting or something, specially if you are playing Player VS Player.
+
 
 ###### LICENSE
 
