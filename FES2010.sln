@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FES2010", "FES2010\FES2010.csproj", "{A249F111-DCEF-4DFF-9743-B154257ADF49}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A47145E3-7160-4878-AC3F-4B0A34E2D514} = {A47145E3-7160-4878-AC3F-4B0A34E2D514}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMenu", "GameMenu\GameMenu.csproj", "{A47145E3-7160-4878-AC3F-4B0A34E2D514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario2D", "Scenario2D\Scenario2D.csproj", "{178DA4E7-D982-4AE4-A5C5-C61A125C30AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A249F111-DCEF-4DFF-9743-B154257ADF49}.Debug|x86.ActiveCfg = Debug|x86
+		{A249F111-DCEF-4DFF-9743-B154257ADF49}.Debug|x86.Build.0 = Debug|x86
+		{A249F111-DCEF-4DFF-9743-B154257ADF49}.Release|x86.ActiveCfg = Release|x86
+		{A249F111-DCEF-4DFF-9743-B154257ADF49}.Release|x86.Build.0 = Release|x86
+		{A47145E3-7160-4878-AC3F-4B0A34E2D514}.Debug|x86.ActiveCfg = Debug|x86
+		{A47145E3-7160-4878-AC3F-4B0A34E2D514}.Debug|x86.Build.0 = Debug|x86
+		{A47145E3-7160-4878-AC3F-4B0A34E2D514}.Release|x86.ActiveCfg = Release|x86
+		{A47145E3-7160-4878-AC3F-4B0A34E2D514}.Release|x86.Build.0 = Release|x86
+		{F5F7FA51-E1A7-492E-A052-CF9FD288340D}.Debug|x86.ActiveCfg = Debug|x86
+		{F5F7FA51-E1A7-492E-A052-CF9FD288340D}.Release|x86.ActiveCfg = Release|x86
+		{5842CD02-07C3-4CFB-B9D2-0DB0B4A2A973}.Debug|x86.ActiveCfg = Debug|x86
+		{5842CD02-07C3-4CFB-B9D2-0DB0B4A2A973}.Release|x86.ActiveCfg = Release|x86
+		{178DA4E7-D982-4AE4-A5C5-C61A125C30AD}.Debug|x86.ActiveCfg = Debug|x86
+		{178DA4E7-D982-4AE4-A5C5-C61A125C30AD}.Debug|x86.Build.0 = Debug|x86
+		{178DA4E7-D982-4AE4-A5C5-C61A125C30AD}.Release|x86.ActiveCfg = Release|x86
+		{178DA4E7-D982-4AE4-A5C5-C61A125C30AD}.Release|x86.Build.0 = Release|x86
+		{4526BE57-67F3-4F3E-89E2-FD18FA502028}.Debug|x86.ActiveCfg = Debug|x86
+		{4526BE57-67F3-4F3E-89E2-FD18FA502028}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

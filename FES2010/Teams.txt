@@ -1,0 +1,29 @@
+//T:nome da equipa
+T:Blitzkrieg FC
+
+//nomeJogador numero posicao lado defense goalkeeping offense shot speed stamina
+Ricardo Moutinho 8 midfielder center 50 0 50 50 60 25
+Tiago Carvalho 7 midfielder left 40 0 60 50 55 30
+Rui Campos 9 striker center 10 0 90 80 35 50
+Joao Xavier 11 striker center 15 0 80 75 35 70
+Guest Player A 1 midfielder left 1 2 3 4 5 6
+Guest Player B 10 midfielder right 1 2 3 4 5 6
+Guest Player C 2 goalkeeper center 1 85 3 4 5 6
+Guest Player D 3 defender left 1 2 3 4 5 6
+Guest Player E 4 defender center 1 2 3 4 5 6
+Guest Player F 5 defender center 1 2 3 4 5 6
+Guest Player G 6 defender right 1 2 3 4 5 6
+
+T:Blitzkrieg2 FC 
+//nomeJogador numero posicao lado defense goalkeeping offense shot speed stamina
+Ricardo Moutinho 8 midfielder center 50 0 50 50 60 25
+Tiago Carvalho 7 midfielder left 40 0 60 50 55 30
+Rui Campos 9 striker center 10 0 90 80 35 50
+Joao Xavier 11 striker center 15 0 80 75 35 70
+Guest Player A 1 midfielder left 1 2 3 4 5 6
+Guest Player B 10 midfielder right 1 2 3 4 5 6
+Guest Player C 2 goalkeeper center 1 85 3 4 5 6
+Guest Player D 3 defender left 1 2 3 4 5 6
+Guest Player E 4 defender center 1 2 3 4 5 6
+Guest Player F 5 defender center 1 2 3 4 5 6
+Guest Player G 6 defender right 1 2 3 4 5 6
