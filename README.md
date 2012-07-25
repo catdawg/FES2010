@@ -1,6 +1,6 @@
 ###### DESCRIPTION
 
-A 2D football game made in XNA for a Game Development course in the Masters Integrated of Informatics and Computing Engineering degree from the University of Porto. The development team was composed of:
+A 2D football game made in XNA for a Game Development course in the Integrated Master of Informatics and Computing Engineering degree from the University of Porto. The development team was composed of:
 
 João Xavier (jcxavier in github)
 

@@ -408,7 +408,7 @@ namespace FES2010
             private bool IsGoalInRange()
             {
                 //TODO determine by shot power, using fixed distance
-                float shot = 400;
+                float shot = 200;
                 Vector2 goal;
                 if (Player.Team.IsHomeTeam)
                     goal = new Vector2(0, ((Game)Game).Match.Field.Measures.Top);
