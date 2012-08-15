@@ -10,6 +10,7 @@ Rui Campos ([catdawg](http://github.com/catdawg) @ github)
 
 Tiago Carvalho
 
+Demonstration Video: http://www.youtube.com/watch?v=HlaMYWlepfM&feature=g-upl
 
 Download link for the compiled game: https://dl.dropbox.com/u/16643844/FES2010.zip
 You might need to install the XNA 3.1 runtime: http://www.microsoft.com/en-us/download/details.aspx?id=15163
